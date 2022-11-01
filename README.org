@@ -6,7 +6,7 @@
 
 * GitHub username: CPawlus
 
-* Notes:
+* Notes: For taskE.pgm, whenever I would scale it would just be more enhanced so I scaled to corner of its size.
 
 
   
