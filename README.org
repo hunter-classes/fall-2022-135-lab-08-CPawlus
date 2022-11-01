@@ -6,7 +6,7 @@
 
 * GitHub username: CPawlus
 
-* Notes: For taskE.pgm, whenever I would scale it would just be more enhanced so I scaled to corner of its size.
+* Notes: For taskE.pgm, whenever I would scale the image it would just be more enhanced so I scaled to corner of its size.
 
 
   
